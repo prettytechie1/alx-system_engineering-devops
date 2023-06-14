@@ -9,4 +9,6 @@
 * 2. There is no place like home
   * [2-bring_me_home](): Bash script that changes the working directory to the user's home directory.
 * 3. The long format
-  * [3-listfiles](): Bash Script displaying current directory contents in a long format.
+  * [3-listfiles](): Bash script displaying current directory contents in a long format.
+* 4. Hidden files
+  * Bash script displaying current directory contents, including hidden files (starting with .) in a long format
