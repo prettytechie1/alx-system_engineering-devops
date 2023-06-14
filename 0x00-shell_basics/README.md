@@ -11,4 +11,9 @@
 * 3. The long format
   * [3-listfiles](): Bash script displaying current directory contents in a long format.
 * 4. Hidden files
-  * Bash script displaying current directory contents, including hidden files (starting with .) in a long format
+  * [4-listmorefiles]() Bash script displaying current directory contents, including hidden files (starting with .) in a long format
+* 5.I love numbers
+  * [5-listfilesdigitonly]():Bash script displaing current directory contents in
+    * Long format
+    * With user and group IDs displayed numerically
+    * With hidden files (starting with .)
